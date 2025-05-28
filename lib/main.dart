@@ -120,7 +120,3 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
-
-
-
-/// we will do it together
