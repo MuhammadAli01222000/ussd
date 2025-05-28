@@ -151,3 +151,5 @@ class Ussd extends StatelessWidget {
     return const Placeholder();
   }
 }
+////salom
+void salom()=>print('salom');
