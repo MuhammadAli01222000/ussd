@@ -142,3 +142,12 @@ class _UserState extends State<User> {
     );
   }
 }
+
+class Ussd extends StatelessWidget {
+  const Ussd({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return const Placeholder();
+  }
+}
